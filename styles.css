@@ -23,7 +23,7 @@ body {
 /* Dark blue theme set as default */
 :root {
   /* Dark blue gradient background */
-  --bg-gradient: linear-gradient(135deg, #0a2a66, #264e9b);
+  --bg-gradient: black;
   --text-color: #cbd6ea;
   --container-bg: rgba(26, 50, 98, 0.15);
   --btn-bg: #3160d8;
